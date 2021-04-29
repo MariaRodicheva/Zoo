@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<animals>
+    <carnivoreAnimals>
+        <name>Lion</name>
+        <amount>4</amount>
+    </carnivoreAnimals>
+    <carnivoreAnimals>
+        <name>Bear</name>
+        <amount>2</amount>
+    </carnivoreAnimals>
+    <herbivoreAnimals>
+        <name>Zebra</name>
+        <amount>3</amount>
+    </herbivoreAnimals>
+    <herbivoreAnimals>
+        <name>Elephant</name>
+        <amount>2</amount>
+    </herbivoreAnimals>
+</animals>
